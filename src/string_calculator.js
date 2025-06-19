@@ -1,0 +1,4 @@
+// StringCalculator.js
+function StringCalculator() {}
+
+
